@@ -100,14 +100,14 @@ Me chamo Ramon Dos Santos Garcia, tenho 23 anos e sou de SP Capital. Trabalhava 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ramonexe&show_icons=true&theme=highcontrast&locale=pt-br&card_width=400px"
+    src="https://github-readme-stats.vercel.app/api?username=ramonexe&show_icons=true&theme=highcontrast&locale=pt-br&card_width=300px&hide_border=true"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonexe&theme=highcontrastt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonexe&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
 
 </p>
