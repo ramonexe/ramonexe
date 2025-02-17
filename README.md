@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Ramon Dos Santos Garcia, tenho 23 anos e sou de SP Capital. Trabalhava na área de ilustração digital e atualmente sou estudante de Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro. Tenho contato com computador desde os meus 6 anos e sempre curiosidade em aprender coisas novas. Esse é meu "[Portfólio](https://ramonexe.com)" em desenvolvimento, onde tento demonstrar minhas habilidades Front-End.
+Me chamo Ramon Dos Santos Garcia, tenho 23 anos e sou de SP Capital. Trabalhava na área de ilustração digital e atualmente sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro. Tenho contato com computador desde os meus 6 anos e sempre curiosidade em aprender coisas novas. Esse é meu "[Portfólio](https://ramonexe.com)" em desenvolvimento, onde tento demonstrar minhas habilidades Front-End.
 
 <p align="left">
     <a href="https://github.com/ramonexe?tab=repositories">
