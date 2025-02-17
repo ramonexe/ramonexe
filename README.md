@@ -5,14 +5,14 @@
 Me chamo Ramon Dos Santos Garcia, tenho 23 anos e sou de SP Capital. Trabalhava na área de ilustração digital e atualmente sou estudante de Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro. Tenho contato com computador desde os meus 6 anos e sempre curiosidade em aprender coisas novas. Esse é meu "[Portfólio](https://ramonexe.com)" em desenvolvimento, onde tento demonstrar minhas habilidades Front-End.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1](https://github.com/ramonexe?tab=repositories">
+    <a href="https://github.com/ramonexe?tab=repositories">
         <img 
             alt="repositorios" 
             title="Meus Repositórios" 
             src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich](https://ramonexe.com/cv.pdf">
+    <a href="https://ramonexe.com/cv.pdf">
         <img 
             alt="curriculo" 
             title="Baixar Currículo" 
